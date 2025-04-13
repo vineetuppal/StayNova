@@ -1,3 +1,12 @@
+## 🎥 Project Demonstration Videos
+
+- **🔹 User Functionalities Overview**  
+  [Watch Video on Loom](https://www.loom.com/share/650d936d0d7d4402aa63e12b046b9945?sid=0be87d46-69d0-40ef-80b9-29b93c2a4abc)
+
+- **🔸 Admin Functionalities Overview**  
+  [Watch Video on Loom](https://www.loom.com/share/1188c8276db24e84bf009563e8c6837a?sid=5e83cf21-c6d4-41e0-9747-32a7a6c3da8a)
+
+
 # StayNova - Hotel Booking System
 
 StayNova is a hotel booking web application built with **Spring Boot** for the backend and **React** for the frontend. It allows users to view available rooms, book rooms, and manage their bookings. The application also supports user authentication, profile management, and administrative functionality to manage rooms, users, and bookings.
