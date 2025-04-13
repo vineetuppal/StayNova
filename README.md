@@ -47,8 +47,8 @@ StayNova is a hotel booking web application built with **Spring Boot** for the b
     spring.jpa.hibernate.ddl-auto=update
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
-    aws.s3.secret.key=4QrJKQXVES0JWJhZ273V9bwXk04ahlAnfARNawwZ
-    aws.s3.access.key=AKIATXDEFJ5NTWZPW77W
+    aws.s3.secret.key=//your aws s3 secret key
+    aws.s3.access.key=// your aws s3 access key
     aws.s3.bucket-name=hotel-images-proj
 
     spring.servlet.multipart.max-file-size=100MB
